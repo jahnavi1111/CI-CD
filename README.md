@@ -1,3 +1,3 @@
 # Working with lists
-Trying out few list functions as
+Trying out few list functions such as
 > reverse(), sort(), copy()
