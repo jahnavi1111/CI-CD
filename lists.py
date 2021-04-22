@@ -15,5 +15,9 @@ List4 = []
 List4.append(7)
 print("List4 =", List4)
 
+List5 = [1, 2, 3]
+List5.extend([4, 5])
+print("List5 =", List5)
+
 indexvalue = List2[2:6]
 print("The index values are" , indexvalue)
