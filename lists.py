@@ -11,5 +11,9 @@ List3 = []
 List3 = List1.copy()
 print("List3 =", List3)
 
+List4 = []
+List4.append(7)
+print("List4 =", List4)
+
 indexvalue = List2[2:6]
 print("The index values are" , indexvalue)
