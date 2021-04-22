@@ -1,3 +1,3 @@
 # Working with lists
 Trying out few list functions such as
-> reverse(), sort(), copy()
+> reverse(), sort(), copy(), append()
